@@ -1,3 +1,3 @@
-# Francais Python
+# Python en français
 
 # Launching Soon...
