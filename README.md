@@ -1,3 +1,0 @@
-# Francais Python
-
-# Launching Soon...
