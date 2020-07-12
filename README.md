@@ -2,7 +2,7 @@
 
 <img src="https://img-a.udemycdn.com/course/750x422/1067008_26b6_4.jpg" width="380" alt="Python 3 : Formation complète à la programmation" align="center">
 
-Vous allez trouver ici tous les documents (Jupytr Notebooks) qui accompagnent le cours [Python 3 : Formation complète à la programmation](https://www.udemy.com/course/python-formation-intensive-a-la-programmation/?referralCode=B0B80849C6B1A202A0FF).
+Vous allez trouver ici tous les documents (Jupyter Notebooks) qui accompagnent le cours [Python 3 : Formation complète à la programmation](https://www.udemy.com/course/python-formation-intensive-a-la-programmation/?referralCode=B0B80849C6B1A202A0FF).
 
 ## Programme
 
