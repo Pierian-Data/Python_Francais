@@ -1,0 +1,7 @@
+Bonjour ceci est un petit fichier
+une deuxième ligne
+une troisième ligne
+
+une quatrième ligne
+et une cinquième ligne
+ajouter une sixième ligne
